@@ -38,6 +38,8 @@ learning_outcomes:
   - Practice console input handling
   - Apply object oriented concepts
 
+    Bharati Basumatary
+
 future_enhancements:
   - Add file database persistence
   - Implement transaction history
